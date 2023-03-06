@@ -1,4 +1,6 @@
-This code is very terrible.
+# CSV to Chat UI
+This code is very terrible. Some problems are remain.
+This application needs csv file which is exported by another application (in progress).
 
 
 
